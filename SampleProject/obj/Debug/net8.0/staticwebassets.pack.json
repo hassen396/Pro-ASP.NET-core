@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/smile/ASP.NET/Pro ASP.NET core/SampleProject/wwwroot/demo.html",
+      "PackagePath": "staticwebassets/demo.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SampleProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SampleProject.props",
+      "PackagePath": "build\\SampleProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SampleProject.props",
+      "PackagePath": "buildMultiTargeting\\SampleProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SampleProject.props",
+      "PackagePath": "buildTransitive\\SampleProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

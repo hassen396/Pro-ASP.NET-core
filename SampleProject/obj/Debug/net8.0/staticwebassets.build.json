@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EQac+W5xSL9/MuVWkBbxF43X2nyIDJupjRO9xmotT+0=",
+  "Source": "SampleProject",
+  "BasePath": "_content/SampleProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SampleProject/wwwroot",
+      "Source": "SampleProject",
+      "ContentRoot": "/Users/smile/ASP.NET/Pro ASP.NET core/SampleProject/wwwroot/",
+      "BasePath": "_content/SampleProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/smile/ASP.NET/Pro ASP.NET core/SampleProject/wwwroot/demo.html",
+      "SourceId": "SampleProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/smile/ASP.NET/Pro ASP.NET core/SampleProject/wwwroot/",
+      "BasePath": "_content/SampleProject",
+      "RelativePath": "demo.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/demo.html"
+    }
+  ]
+}
